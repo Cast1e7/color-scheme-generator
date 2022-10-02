@@ -19,11 +19,14 @@ This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://
 
 ## Screenshot
 
-![](./screenshots/img-daymode.png)
+- image after color scheme loads
+(./screenshots/image-default-daymode.png)
+- image after color is selected to copy to hex code to clipboard
+(./screenshots/image-hexcopied-daymode.png)
 
 ## Links
 
-- Live Site URL: [tbd](tbd)
+- Live Site URL: https://cast1e7.github.io/color-scheme-generator/
 - The Color API Docs: https://www.thecolorapi.com/docs#schemes
 
 
