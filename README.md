@@ -24,7 +24,7 @@ This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://
 ## Links
 
 - Live Site URL: [tbd](tbd)
-- Color Api: 
+- The Color API Docs: https://www.thecolorapi.com/docs#schemes
 
 
 ## Built with
