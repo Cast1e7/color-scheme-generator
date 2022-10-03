@@ -45,13 +45,6 @@ colorOuput.addEventListener("click", function(e) {
     const colorHexValue = hex.textContent
     const hexValueDom = document.getElementById(colorHexValue)
     navigator.clipboard.writeText(colorHexValue)
-                        .then(
-                            () => {
-                                alert('copied successfully')
-                            },
-                            () => {
-                                alert('error copying')
-                            })
     hexValueDom.textContent = "Hex Copied"
     hexValueDom.style.background = "#000000"
     hexValueDom.style.color = "#ffffff"

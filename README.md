@@ -1,6 +1,6 @@
 # Color-Scheme Generator App
 
-This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://scrimba.com/allcourses).
+This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://scrimba.com/learn/frontend).
 
 ## Table of contents
 
@@ -20,9 +20,9 @@ This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://
 ## Screenshot
 
 - image after color scheme loads
-(./screenshots/image-default-daymode.png)
+![Default Image](./screenshots/image-default-daymode.png)
 - image after color is selected to copy to hex code to clipboard
-(./screenshots/image-hexcopied-daymode.png)
+![Image after copying hex code](./screenshots/image-hexcopied-daymode.png)
 
 ## Links
 
